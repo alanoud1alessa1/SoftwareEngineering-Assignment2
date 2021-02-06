@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "IT320 – Software Engineering,Assignment 2"
